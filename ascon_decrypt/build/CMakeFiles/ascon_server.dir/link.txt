@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/ascon_server.dir/src/decrypt_util.cpp.o CMakeFiles/ascon_server.dir/src/main.cpp.o CMakeFiles/ascon_server.dir/src/aead.c.o CMakeFiles/ascon_server.dir/src/ascon_hash.c.o CMakeFiles/ascon_server.dir/src/printstate.c.o -o ascon_server 

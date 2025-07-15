@@ -1,0 +1,3 @@
+/home/showrya/ascon_server/ascon_decrypt/build/CMakeFiles/ascon_server.dir
+/home/showrya/ascon_server/ascon_decrypt/build/CMakeFiles/edit_cache.dir
+/home/showrya/ascon_server/ascon_decrypt/build/CMakeFiles/rebuild_cache.dir
